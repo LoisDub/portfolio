@@ -1,0 +1,86 @@
+Lois Chiles Concepcion
+City of Batac, 
+Ilocos
+ Norte, Philippines 
+loischilesc05@gmail.com
+ 
+|| 
+[09950027524]
+LinkedIn: https://www.linkedin.com/in/lois-chiles-concepcion-7463812a7/
+ 
+GitHu
+b
+: 
+https://github.com/LoisDub
+PROFESSIONAL SUMMARY
+Dedicated 
+Computer Science student 
+and 
+Jr. Technical Director
+ in 
+Salaysayen
+ Publication,
+ exp
+osed
+ in bridging hardware-software gaps through Python, JavaScript, and C++. 
+By 
+developing 
+Personal 
+IoT systems, real-time AI tracking applications
+.
+TECHNICAL SKILLS
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:before="58" w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/></w:rPr><w:t xml:space="preserve">Languages: 
+Python, JavaScript (JS), C++, HTML, SQL, Swift CSS
+Frameworks
+ &amp; Tools: 
+Vite, CSS, Node.js, Git, GitHub, Linux, OpenCV, 
+MediaPipe
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/></w:rPr><w:t xml:space="preserve">Hardware &amp; IoT: 
+ESP32-CAM, Arduino Uno, Sensor Integration, Blynk Cloud
+LEADERSHIP &amp; EXPERIENCE
+<w:tab w:val="left" w:pos="7732"/></w:tabs><w:spacing w:before="47" w:line="276" w:lineRule="auto"/><w:rPr><w:i/></w:rPr></w:pPr><w:proofErr w:type="spellStart"/><w:r w:rsidRPr="006F7280"><w:rPr><w:b/></w:rPr><w:t>Salaysayen
+ Publication
+</w:r><w:r w:rsidRPr="006F7280"><w:rPr><w:i/></w:rPr><w:t>January 2026 – Present
+Jr. Technical Director
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t>Oversee technical infrastructure and digital publication workflows for the organization.
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t>Implement digital solutions to streamline content delivery and editorial efficiency.
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t>Manage technical assets and ensure 100% digital uptime for all publication releases.
+KEY TECHNICAL PROJECTS
+<w:tab w:val="left" w:pos="8364"/></w:tabs><w:spacing w:before="47" w:line="276" w:lineRule="auto"/><w:ind w:left="386"/><w:rPr><w:i/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:b/></w:rPr><w:t>IoT Dog Feeder Pro System
+</w:r><w:r w:rsidRPr="006F7280"><w:rPr><w:i/></w:rPr><w:t>Hardware &amp; IoT
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t xml:space="preserve">Engineered a cloud-integrated automated feeding system using an 
+ESP32-CAM 
+and 
+Blynk IoT
+.
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t>Developed real-time video monitoring and remote triggers for automated pet care.
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t>Optimized hardware power consumption for long-term deployment and reliability.
+<w:tab w:val="left" w:pos="8323"/></w:tabs><w:spacing w:before="95" w:line="276" w:lineRule="auto"/><w:ind w:left="386"/><w:rPr><w:i/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:b/></w:rPr><w:t>Real-Time AI Motion Capture Application
+</w:r><w:r w:rsidRPr="006F7280"><w:rPr><w:i/></w:rPr><w:t>Computer Vision
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t xml:space="preserve">Developed a 
+computer vision application rendering user movement
+ into a digital skeleton using 
+MediaPipe
+and 
+OpenCV
+.
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t xml:space="preserve">Utilized 
+NVIDIA RTX GPU 
+acceleration to achieve low-latency, real-time pose estimation.
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr><w:t xml:space="preserve">Designed custom data processing logic in 
+Python 
+for high-accuracy movement tracking.
+EDUCATION
+<w:tab w:val="left" w:pos="8584"/></w:tabs><w:spacing w:before="62" w:line="276" w:lineRule="auto"/><w:ind w:left="87" w:right="114" w:firstLine="298"/><w:jc w:val="both"/><w:rPr><w:i/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:b/></w:rPr><w:t>Mariano Marcos State University (MMSU)
+</w:r><w:r w:rsidRPr="006F7280"><w:rPr><w:i/></w:rPr><w:t>Expected 2027 Bachelor of Science in Computer Science
+<w:tab w:val="left" w:pos="8004"/></w:tabs><w:spacing w:before="96" w:line="276" w:lineRule="auto"/><w:ind w:left="386"/><w:rPr><w:i/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:b/></w:rPr><w:t>Claveria School of Arts and Trades
+</w:r><w:r w:rsidRPr="006F7280"><w:rPr><w:i/></w:rPr><w:t>Secondary Education
+CORE COMPETENCIES
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:before="47" w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/></w:rPr><w:t xml:space="preserve">Technical Direction: 
+Strategic management of digital assets and publishing tools.
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/></w:rPr><w:t xml:space="preserve">Embedded Systems: 
+Designing and debugging 
+simple 
+hardware-software interactions.
+<w:tab w:val="left" w:pos="302"/></w:tabs><w:spacing w:line="276" w:lineRule="auto"/><w:ind w:left="302" w:hanging="198"/><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/></w:rPr></w:pPr><w:r w:rsidRPr="006F7280"><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/><w:b/></w:rPr><w:t xml:space="preserve">UI/UX Logic: 
+Crafting minimalist, professional interfaces using Vite and modern CSS.
